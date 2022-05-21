@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"CPU","h":"","u":""},{"l":"KeyBoard","h":"","u":""},{"l":"PigTailApplication","h":"","u":""},{"l":"PigTailGame","h":"","u":""},{"l":"Player","h":"","u":""},{"l":"User","h":"","u":""},{"l":"すべてのクラス","h":"","u":"allclasses-index.html"}]

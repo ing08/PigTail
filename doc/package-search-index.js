@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"se.t1875085.card.game","h":"","u":""},{"l":"すべてのパッケージ","h":"","u":"allpackages-index.html"}]
